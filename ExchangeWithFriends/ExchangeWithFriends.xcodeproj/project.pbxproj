@@ -405,6 +405,7 @@
 				3FC240B11A842F0C00B4A916 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3FC240B21A842F0C00B4A916 /* Build configuration list for PBXNativeTarget "ExchangeWithFriendsTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				3FC240B41A842F0C00B4A916 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
